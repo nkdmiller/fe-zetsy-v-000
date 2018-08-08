@@ -35,6 +35,6 @@ header a {
 }
 footer {
   float: right;
-  
+  font-size: 0.8em;
   margin-bottom: 25px;
 }
