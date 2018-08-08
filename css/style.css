@@ -25,7 +25,10 @@ h1 {
     font-family: 'Baskerville', serif;
     border-bottom: 1px solid #ccc;
 }
-
+h1 {
+    font-size: 2em;
+    margin: .67em 0;
+}
 header a {
     color: rgb(152,173,166);
     text-decoration: none;
