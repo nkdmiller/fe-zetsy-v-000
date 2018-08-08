@@ -34,5 +34,6 @@ header a {
     text-decoration: none;
 }
 footer {
-  float: left;
+  float: right;
+  margin-bottom: 15px;
 }
